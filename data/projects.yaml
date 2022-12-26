@@ -1,9 +1,9 @@
 {
    "list": [
       {
-         "name":"Hexo",
-         "url":"https://hexo.io/",
-         "desc":"A fast, simple & powerful blog framework"
+         "name":"Mierebus-bot",
+         "url":"https://github.com/bijancot/mierebus-bot",
+         "desc":"Simple Whatsapp API built with nodejs"
       }
    ]
 }
