@@ -49,7 +49,7 @@ Excalidraw also very rich of feature like it's able to do image uploading, have 
 
 
 **The Meh..**
-- it's support private library but somehow onlt able to be accesed via one workstation
+- it's support private library but somehow only able to be accesed via one workstation
 - it's really rich of feature but only for paid users (Actually make sense tho)
 - the text management can be better 
 
