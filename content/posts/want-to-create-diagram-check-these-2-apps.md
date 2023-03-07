@@ -14,7 +14,7 @@ suddenly I read something about making diagram and in one time i got 2 tools tha
 and here is the recap of that's two tools
 
 ## app.dgrm.net
-so we start with the serious diagram tools. It's easy to use, really straight forward and you can make a flow chart easly. Easy to use and auto focus export image so you dont need to adjust it by your self
+so we start with the serious diagram tools. It's easy to use, really straight forward and you can make a flow chart easly. And it's keep getting better with auto focus export image so you dont need to adjust it by your self
 
 ![app.dgrm.net](https://is3.cloudhost.id/panji-doc/app-drgm "app.drgm.net look like this, try it by your self at the link above")
 <figcaption align = "center"><b><a href="app.drgm.net">app.drgm.net</a> look like this</b></figcaption></br>
@@ -50,7 +50,7 @@ Excalidraw also very rich of feature like it's able to do image uploading, have 
 
 
 **The Meh..**
-- it's support private library but somehow onlt able to be accesed via one workstation
+- it's support private library but somehow only able to be accesed via one workstation
 - it's really rich of feature but only for paid users (Actually make sense tho)
 - the text management can be better 
 
