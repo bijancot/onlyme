@@ -14,10 +14,10 @@ suddenly I read something about making diagram and in one time i got 2 tools tha
 and here is the recap of that's two tools
 
 ## app.dgrm.net
-so we start with the serious diagram tools. It's easy to use, really straight forward and you can make a flow chart easly. And it's keep getting better with auto focus export image so you dont need to adjust it by your self 
+so we start with the serious diagram tools. It's easy to use, really straight forward and you can make a flow chart easly. Easy to use and auto focus export image so you dont need to adjust it by your self
 
 ![app.dgrm.net](https://is3.cloudhost.id/panji-doc/app-drgm "app.drgm.net look like this, try it by your self at the link above")
-
+<figcaption align = "center"><b><a href="app.drgm.net">app.drgm.net</a> look like this</b></figcaption></br>
 
 **The Pro**
 - it's open source
@@ -33,6 +33,7 @@ so we start with the serious diagram tools. It's easy to use, really straight fo
 Now the excalidraw, have different way to create a diagram. First time use this tools it feels like use comic sans ms instead of calibri or times new roman when writing a post mortem which is not wrong but not good either.
 
 ![excalidraw.com](https://is3.cloudhost.id/panji-doc/excalidraw-0.png "excalidraw.com look like this, try it by your self at the link above")
+<figcaption align = "center"><b><a href="excalidraw.com">excalidraw</a> look like this</b></figcaption></br>
 
 But all i can say it's have it's own styling which so simple and relaxing. It's also feels like "hey if you nerd you can use this tools". They even have a feature called "nerd statistics" like how dare you excalidraw!, but it's cool though.
 
@@ -49,7 +50,7 @@ Excalidraw also very rich of feature like it's able to do image uploading, have 
 
 
 **The Meh..**
-- it's support private library but somehow only able to be accesed via one workstation
+- it's support private library but somehow onlt able to be accesed via one workstation
 - it's really rich of feature but only for paid users (Actually make sense tho)
 - the text management can be better 
 
